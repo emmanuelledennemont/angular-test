@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@use "pico";
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: red;
+  color: white;
+}
